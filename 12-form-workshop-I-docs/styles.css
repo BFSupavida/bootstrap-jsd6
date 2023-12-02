@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    background-color: rgb(255, 0, 68);
+}
+
+.button-ad {
+    background-color: blueviolet;
+    
+}
+
+btn btn-primary btn-md bg-warning text-white 
+      -inline-flex d-flex justify-content-center w-100
+
+form { 
+    border-radius: 10px;
+}
